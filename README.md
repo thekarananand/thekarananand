@@ -2,5 +2,4 @@
 
 ### Hi there 👋, I am **Karan Anand**, an IT enthusiast from India.
   
-### DREAM PROJECT ✨
-1. [SpringOS](https://www.github.com/Team-SpringOS)
+### DREAM PROJECT ✨ -> [SpringOS](https://www.github.com/Team-SpringOS)
