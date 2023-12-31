@@ -1,4 +1,6 @@
-`thekarananand@github:~$ whoami`
+```
+thekarananand@github:~$ whoami
+```
 
 ## 👨‍💻 KARAN ANAND
 An Aspiring DevOps & Cloud Engineer, with a little touch on WebDev🌐
