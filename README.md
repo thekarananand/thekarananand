@@ -6,7 +6,7 @@ thekarananand@github:~$ whoami
 An Aspiring DevOps & Cloud Engineer, with a little touch on WebDev🌐
 
 ### DevOps 💪🏼
-![My Skills](https://skillicons.dev/icons?i=linux,git,docker,kubernetes,ansible&theme=light&perline=7)
+![My Skills](https://skillicons.dev/icons?i=linux,git,docker,kubernetes,ansible,githubactions&theme=light&perline=7)
 
 ### Development 💪🏼
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,django,mongodb,nextjs,postman&theme=light&perline=6)
