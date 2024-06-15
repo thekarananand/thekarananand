@@ -5,6 +5,12 @@ thekarananand@github:~$ whoami
 ## 👨‍💻 KARAN ANAND
 An Aspiring DevOps & Cloud Engineer, with a little touch on WebDev🌐
 
+### DevOps 💪🏼
+![My Skills](https://skillicons.dev/icons?i=linux,git,docker,kubernetes,ansible&theme=light&perline=7)
+
+### Development 💪🏼
+![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,django,mongodb,nextjs,postman&theme=light&perline=6)
+
 ### EDUCATION 🎓
 - **B. Tech. (Instrumentation & Control Engineering)**<br>
   National Institute of Technology, Jalandhar.<br>
